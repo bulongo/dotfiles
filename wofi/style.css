@@ -1,0 +1,52 @@
+window {
+  /* margin: 5px; */
+  font-family: Arial, Helvetica, sans-serif;
+  /* border: 2px solid red; */
+  background-color: #221E22;
+}
+
+
+#input {
+  padding: 10px;
+  border: none;
+  background: #31263E;
+  /*   /* background-color: blue; */
+}
+
+#img {
+  background: rgba(0, 0, 0, 0);
+  margin-right: 7px;
+}
+
+#outer-box {
+  margin: 10px;
+  width: 130px;
+  /* border: 2px solid green; */
+  /* background-color: green; */
+}
+
+
+#scroll {
+  margin: 10px;
+  /* /* border: 2px solid orange; */
+  /* /* background-color: orange; */
+}
+
+#entry:selected {
+  /* background-color: rgba(259, 69, 0, 0.8); */
+  margin: 10px;
+  background: linear-gradient(90deg, #F16D41, #FF475A);
+}
+
+#entry {
+  margin: 10px;
+  padding: 10px;
+}
+
+
+#text:selected {
+  /* margin: 10px; */
+  /* color: white; */
+  /* /* border: 2px solid cyan; */
+  background-color: rgba(0, 0, 0, 0);
+}
